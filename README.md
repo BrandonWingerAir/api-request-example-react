@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# API Request Example (React.js)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshot
+
+![API Request Example](https://i.ibb.co/n84mHnW/react-api.jpg)
 
 ## Available Scripts
 
